@@ -2,5 +2,5 @@
 
 Link del video 
 
-[![Watch the video](https://youtu.be/iNNSsQIM0fA)
+https://youtu.be/iNNSsQIM0fA
 
